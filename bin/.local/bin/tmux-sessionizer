@@ -11,6 +11,7 @@ SEARCH_PATHS=(
     "$HOME/dev"
     "$HOME/work"
     "$HOME/gamedev"
+    "$HOME/Documents/dev"
 )
 
 # One-off directories to always include in the list.
